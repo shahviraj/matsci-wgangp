@@ -1,4 +1,6 @@
-## Pytorch code for GAN models
+## WGAN and WGANGP models for materials discovery
+### Forked from Zeleni9 and modified to implement microstructure generation model
+
 This is the pytorch implementation of 3 different GAN models using same convolutional architecture.
 
 
@@ -22,7 +24,6 @@ To install all the dependencies quickly and easily you should use __pip__
 ```python
 pip install -r requirements.txt
 ```
-
 
 
  *Training*
